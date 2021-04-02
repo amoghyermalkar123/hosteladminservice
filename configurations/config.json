@@ -1,0 +1,9 @@
+{
+    "pg": {  
+      "host"     : "localhost:5432",
+      "username" : "amogh",
+      "password" : "amogh",
+      "database" : "hosteldb"
+    }
+  }
+  
